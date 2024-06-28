@@ -9,27 +9,27 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 그랬군... 그랬구나... # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 산전수전 주니어 개발자 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, tremo, github
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sylvia0919.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: sylvia0919 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -86,7 +86,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: # [dark | light]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://img1.daumcdn.net/thumb/C500x500.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/bj8U/image/sRLqlpxuTCB9lW7_E3hkOrrd71s
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
